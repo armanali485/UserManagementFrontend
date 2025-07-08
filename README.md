@@ -19,7 +19,3 @@
 - 🔐 JWT Auth
 - 🌐 Hosted on Netlify
 
----
-
-## 📂 Project Structure (Example)
-
